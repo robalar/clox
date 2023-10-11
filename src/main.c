@@ -2,7 +2,7 @@
 #include "common.h"
 #include "debug.h"
 #include "vm.h"
-#include <stddef.h>
+#include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
 
